@@ -1,0 +1,7 @@
+.WINDOWMAKERCOMMANDFILE
+.VERSION=1
+.COMMANDLOGFILE=C:\Users\Administrator\Desktop\XMLImportSamples\LogFile.Txt
+.GO
+.WINDOWCREATE
+.XMLFILEPATH=C:\Users\Administrator\Desktop\XMLImportSamples\SampleXMLFile.xml
+.GO
